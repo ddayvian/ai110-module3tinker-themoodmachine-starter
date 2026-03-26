@@ -50,6 +50,11 @@ SAMPLE_POSTS = [
     "This is fine",
     "So excited for the weekend",
     "I am not happy about this",
+    "I am happy but im feeling tired",
+    "I am okay",
+    "no cap this day went absolutely crazy good",
+    "lowkey been in my feelings all week and it's not it",
+    "highkey exhausted but honestly kinda living for it",
 ]
 
 # Human labels for each post above.
@@ -65,6 +70,11 @@ TRUE_LABELS = [
     "neutral",   # "This is fine"
     "positive",  # "So excited for the weekend"
     "negative",  # "I am not happy about this"
+    "mixed",     # "I am happy but im feelin tired"
+    "neutral",   # "I am okay"
+    "positive",  # "no cap this day went absolutely crazy good"
+    "negative",  # "lowkey been in my feelings all week and it's not it"
+    "mixed",     # "highkey exhausted but honestly kinda living for it"
 ]
 
 # TODO: Add 5-10 more posts and labels.
